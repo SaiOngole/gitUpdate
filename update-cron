@@ -1,0 +1,3 @@
+#update path here to point to the location of gitUpdate.sh script
+
+0 9 * * * <path>/gitUpdate.sh
